@@ -1,4 +1,3 @@
-alert("warning");
 
 var numberOfDrumButtons = document.querySelectorAll(".drum").length;
 

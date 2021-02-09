@@ -1,4 +1,3 @@
-alert("warning");
 
 var music = document.querySelector("img");
 
